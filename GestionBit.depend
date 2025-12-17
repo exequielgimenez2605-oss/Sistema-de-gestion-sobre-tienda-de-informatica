@@ -1,0 +1,2186 @@
+# depslib dependency file v1.0
+1760836742 source:c:\users\cristian\onedrive\utn\3er cuatrimestre\programación 2\integradorrenovado\gestionbit\main.cpp
+	<iostream>
+	"menuPrincipal.h"
+
+1760836578 c:\users\cristian\onedrive\utn\3er cuatrimestre\programación 2\integradorrenovado\gestionbit\menuprincipal.h
+
+1760842411 source:c:\users\cristian\onedrive\utn\3er cuatrimestre\programación 2\integradorrenovado\gestionbit\menuprincipal.cpp
+	<iostream>
+	<cstring>
+	"funcionesCliente.h"
+	"funcionesDetalle.h"
+	"funcionesProducto.h"
+	"funcionesVenta.h"
+
+1760831429 source:c:\users\cristian\onedrive\utn\3er cuatrimestre\programación 2\integradorrenovado\gestionbit\cargarcadena.cpp
+	<iostream>
+	<cstring>
+
+1760837660 source:c:\users\cristian\onedrive\utn\3er cuatrimestre\programación 2\integradorrenovado\gestionbit\clsfecha.cpp
+	<iostream>
+	"clsFecha.h"
+
+1760837658 c:\users\cristian\onedrive\utn\3er cuatrimestre\programación 2\integradorrenovado\gestionbit\clsfecha.h
+
+1760838273 source:c:\users\cristian\onedrive\utn\3er cuatrimestre\programación 2\integradorrenovado\gestionbit\clsclientes.cpp
+	<iostream>
+	<cstring>
+	"clsClientes.h"
+	"clsFecha.h"
+	"cargarCadena.h"
+
+1760831429 c:\users\cristian\onedrive\utn\3er cuatrimestre\programación 2\integradorrenovado\gestionbit\clsclientes.h
+	"clsfecha.h"
+
+1760837679 c:\users\cristian\onedrive\utn\3er cuatrimestre\programación 2\integradorrenovado\gestionbit\cargarcadena.h
+
+1760841529 source:c:\users\cristian\onedrive\utn\3er cuatrimestre\programación 2\integradorrenovado\gestionbit\funcionescliente.cpp
+	<iostream>
+	<cstring>
+	"clsClientes.h"
+	"clsArchivoClientes.h"
+	"clsFecha.h"
+	"cargarCadena.h"
+
+1760838735 c:\users\cristian\onedrive\utn\3er cuatrimestre\programación 2\integradorrenovado\gestionbit\funcionescliente.h
+
+1760840810 source:c:\users\cristian\onedrive\utn\3er cuatrimestre\programación 2\integradorrenovado\gestionbit\clsarchivoclientes.cpp
+	<iostream>
+	<cstring>
+	"clsArchivoClientes.h"
+
+1760831429 c:\users\cristian\onedrive\utn\3er cuatrimestre\programación 2\integradorrenovado\gestionbit\clsarchivoclientes.h
+	"clsClientes.h"
+
+1760841760 c:\users\cristian\onedrive\utn\3er cuatrimestre\programación 2\integradorrenovado\gestionbit\funcionesdetalle.h
+
+1760841824 source:c:\users\cristian\onedrive\utn\3er cuatrimestre\programación 2\integradorrenovado\gestionbit\funcionesdetalle.cpp
+	<iostream>
+	<cstring>
+
+1760842300 c:\users\cristian\onedrive\utn\3er cuatrimestre\programación 2\integradorrenovado\gestionbit\funcionesproducto.h
+
+1760842349 source:c:\users\cristian\onedrive\utn\3er cuatrimestre\programación 2\integradorrenovado\gestionbit\clsdetalles.cpp
+	<iostream>
+	<cstring>
+	"clsDetalles.h"
+
+1760841941 c:\users\cristian\onedrive\utn\3er cuatrimestre\programación 2\integradorrenovado\gestionbit\clsdetalles.h
+
+1760842369 source:c:\users\cristian\onedrive\utn\3er cuatrimestre\programación 2\integradorrenovado\gestionbit\funcionesproducto.cpp
+	<iostream>
+	<cstring>
+
+1760842555 c:\users\cristian\onedrive\utn\3er cuatrimestre\programación 2\integradorrenovado\gestionbit\funcionesventa.h
+
+1760843172 source:c:\users\cristian\onedrive\utn\3er cuatrimestre\programación 2\integradorrenovado\gestionbit\funcionesventa.cpp
+	<iostream>
+	<cstring>
+
+1760842713 source:c:\users\cristian\onedrive\utn\3er cuatrimestre\programación 2\integradorrenovado\gestionbit\clsarchivodetalles.cpp
+	<iostream>
+	<cstring>
+	"clsArchivoDetalles.h"
+	"clsDetalles.h"
+
+1760842757 c:\users\cristian\onedrive\utn\3er cuatrimestre\programación 2\integradorrenovado\gestionbit\clsarchivodetalles.h
+	"clsDetalles.h"
+
+1760842863 source:c:\users\cristian\onedrive\utn\3er cuatrimestre\programación 2\integradorrenovado\gestionbit\clsarchivoproductos.cpp
+	<iostream>
+	<cstring>
+
+1760843210 source:c:\users\cristian\onedrive\utn\3er cuatrimestre\programación 2\integradorrenovado\gestionbit\clsarchivoventas.cpp
+	<iostream>
+	<cstring>
+
+1760831429 source:c:\users\julii\desktop\proyecto infomatica\gestionbit\cargarcadena.cpp
+	<iostream>
+	<cstring>
+
+1760840810 source:c:\users\julii\desktop\proyecto infomatica\gestionbit\clsarchivoclientes.cpp
+	<iostream>
+	<cstring>
+	"clsArchivoClientes.h"
+
+1760831429 c:\users\julii\desktop\proyecto infomatica\gestionbit\clsarchivoclientes.h
+	"clsClientes.h"
+
+1760831429 c:\users\julii\desktop\proyecto infomatica\gestionbit\clsclientes.h
+	"clsfecha.h"
+
+1760837658 c:\users\julii\desktop\proyecto infomatica\gestionbit\clsfecha.h
+
+1760842713 source:c:\users\julii\desktop\proyecto infomatica\gestionbit\clsarchivodetalles.cpp
+	<iostream>
+	<cstring>
+	"clsArchivoDetalles.h"
+	"clsDetalles.h"
+
+1760842757 c:\users\julii\desktop\proyecto infomatica\gestionbit\clsarchivodetalles.h
+	"clsDetalles.h"
+
+1760841941 c:\users\julii\desktop\proyecto infomatica\gestionbit\clsdetalles.h
+
+1760842863 source:c:\users\julii\desktop\proyecto infomatica\gestionbit\clsarchivoproductos.cpp
+	<iostream>
+	<cstring>
+
+1760843210 source:c:\users\julii\desktop\proyecto infomatica\gestionbit\clsarchivoventas.cpp
+	<iostream>
+	<cstring>
+
+1760838273 source:c:\users\julii\desktop\proyecto infomatica\gestionbit\clsclientes.cpp
+	<iostream>
+	<cstring>
+	"clsClientes.h"
+	"clsFecha.h"
+	"cargarCadena.h"
+
+1760837679 c:\users\julii\desktop\proyecto infomatica\gestionbit\cargarcadena.h
+
+1760842349 source:c:\users\julii\desktop\proyecto infomatica\gestionbit\clsdetalles.cpp
+	<iostream>
+	<cstring>
+	"clsDetalles.h"
+
+1760837660 source:c:\users\julii\desktop\proyecto infomatica\gestionbit\clsfecha.cpp
+	<iostream>
+	"clsFecha.h"
+
+1760841529 source:c:\users\julii\desktop\proyecto infomatica\gestionbit\funcionescliente.cpp
+	<iostream>
+	<cstring>
+	"clsClientes.h"
+	"clsArchivoClientes.h"
+	"clsFecha.h"
+	"cargarCadena.h"
+
+1760841824 source:c:\users\julii\desktop\proyecto infomatica\gestionbit\funcionesdetalle.cpp
+	<iostream>
+	<cstring>
+
+1760842369 source:c:\users\julii\desktop\proyecto infomatica\gestionbit\funcionesproducto.cpp
+	<iostream>
+	<cstring>
+
+1760843172 source:c:\users\julii\desktop\proyecto infomatica\gestionbit\funcionesventa.cpp
+	<iostream>
+	<cstring>
+
+1760836742 source:c:\users\julii\desktop\proyecto infomatica\gestionbit\main.cpp
+	<iostream>
+	"menuPrincipal.h"
+
+1760836578 c:\users\julii\desktop\proyecto infomatica\gestionbit\menuprincipal.h
+
+1760916680 source:c:\users\julii\desktop\proyecto infomatica\gestionbit\menuprincipal.cpp
+	<iostream>
+	<cstring>
+	"funcionesCliente.h"
+	"funcionesDetalle.h"
+	"funcionesProducto.h"
+	"funcionesVenta.h"
+
+1760838735 c:\users\julii\desktop\proyecto infomatica\gestionbit\funcionescliente.h
+
+1760841760 c:\users\julii\desktop\proyecto infomatica\gestionbit\funcionesdetalle.h
+
+1760842300 c:\users\julii\desktop\proyecto infomatica\gestionbit\funcionesproducto.h
+
+1760842555 c:\users\julii\desktop\proyecto infomatica\gestionbit\funcionesventa.h
+
+1761011860 source:c:\users\julii\desktop\proyecto infomatica\gestionbit\clsproducto.cpp
+	<iostream>
+	<cstring>
+	"clsProducto.h"
+	"clsFecha.h"
+	"cargarCadena.h"
+
+1760844858 c:\users\julii\desktop\proyecto infomatica\gestionbit\clsproducto.h
+
+1760831430 source:c:\users\pc-01\desktop\gestionbit\cargarcadena.cpp
+	<iostream>
+	<cstring>
+
+1760840812 source:c:\users\pc-01\desktop\gestionbit\clsarchivoclientes.cpp
+	<iostream>
+	<cstring>
+	"clsArchivoClientes.h"
+
+1760831430 c:\users\pc-01\desktop\gestionbit\clsarchivoclientes.h
+	"clsClientes.h"
+
+1760831430 c:\users\pc-01\desktop\gestionbit\clsclientes.h
+	"clsfecha.h"
+
+1760837660 c:\users\pc-01\desktop\gestionbit\clsfecha.h
+
+1761138922 source:c:\users\pc-01\desktop\gestionbit\clsarchivodetalles.cpp
+	<iostream>
+	<cstring>
+	"clsArchivoDetalles.h"
+	"clsDetalles.h"
+
+1761139500 c:\users\pc-01\desktop\gestionbit\clsarchivodetalles.h
+	"clsDetalles.h"
+
+1760841942 c:\users\pc-01\desktop\gestionbit\clsdetalles.h
+
+1760842864 source:c:\users\pc-01\desktop\gestionbit\clsarchivoproductos.cpp
+	<iostream>
+	<cstring>
+
+1760843212 source:c:\users\pc-01\desktop\gestionbit\clsarchivoventas.cpp
+	<iostream>
+	<cstring>
+
+1760838274 source:c:\users\pc-01\desktop\gestionbit\clsclientes.cpp
+	<iostream>
+	<cstring>
+	"clsClientes.h"
+	"clsFecha.h"
+	"cargarCadena.h"
+
+1760837680 c:\users\pc-01\desktop\gestionbit\cargarcadena.h
+
+1761138422 source:c:\users\pc-01\desktop\gestionbit\clsdetalles.cpp
+	<iostream>
+	<cstring>
+	"clsDetalles.h"
+
+1760837662 source:c:\users\pc-01\desktop\gestionbit\clsfecha.cpp
+	<iostream>
+	"clsFecha.h"
+
+1761011862 source:c:\users\pc-01\desktop\gestionbit\clsproducto.cpp
+	<iostream>
+	<cstring>
+	"clsProducto.h"
+	"clsFecha.h"
+	"cargarCadena.h"
+
+1760844860 c:\users\pc-01\desktop\gestionbit\clsproducto.h
+
+1761140032 source:c:\users\pc-01\desktop\gestionbit\funcionescliente.cpp
+	<iostream>
+	<cstring>
+	"clsClientes.h"
+	"funcionesCliente.h"
+	"clsArchivoClientes.h"
+	"clsFecha.h"
+	"cargarCadena.h"
+
+1761140000 source:c:\users\pc-01\desktop\gestionbit\funcionesdetalle.cpp
+	<iostream>
+	<cstring>
+	"funcionesDetalle.h"
+	"clsDetalles.h"
+	"clsArchivoDetalles.h"
+
+1760842370 source:c:\users\pc-01\desktop\gestionbit\funcionesproducto.cpp
+	<iostream>
+	<cstring>
+
+1760843174 source:c:\users\pc-01\desktop\gestionbit\funcionesventa.cpp
+	<iostream>
+	<cstring>
+
+1760836744 source:c:\users\pc-01\desktop\gestionbit\main.cpp
+	<iostream>
+	"menuPrincipal.h"
+
+1760836580 c:\users\pc-01\desktop\gestionbit\menuprincipal.h
+
+1761132989 source:c:\users\pc-01\desktop\gestionbit\menuprincipal.cpp
+	<iostream>
+	<cstring>
+	"funcionesCliente.h"
+	"funcionesDetalle.h"
+	"funcionesProducto.h"
+	"funcionesVenta.h"
+	"funcionesMenus.h"
+
+1761132971 c:\users\pc-01\desktop\gestionbit\funcionescliente.h
+
+1761138727 c:\users\pc-01\desktop\gestionbit\funcionesdetalle.h
+
+1761132971 c:\users\pc-01\desktop\gestionbit\funcionesproducto.h
+
+1761132971 c:\users\pc-01\desktop\gestionbit\funcionesventa.h
+
+1761134275 c:\users\pc-01\desktop\gestionbit\funcionesmenus.h
+
+1760831430 source:c:\users\matias\desktop\gestionbit\cargarcadena.cpp
+	<iostream>
+	<cstring>
+
+1760840812 source:c:\users\matias\desktop\gestionbit\clsarchivoclientes.cpp
+	<iostream>
+	<cstring>
+	"clsArchivoClientes.h"
+
+1760831430 c:\users\matias\desktop\gestionbit\clsarchivoclientes.h
+	"clsClientes.h"
+
+1760831430 c:\users\matias\desktop\gestionbit\clsclientes.h
+	"clsfecha.h"
+
+1760837660 c:\users\matias\desktop\gestionbit\clsfecha.h
+
+1761141917 source:c:\users\matias\desktop\gestionbit\clsarchivodetalles.cpp
+	<iostream>
+	<cstring>
+	"clsArchivoDetalles.h"
+	"clsDetalles.h"
+
+1761139502 c:\users\matias\desktop\gestionbit\clsarchivodetalles.h
+	"clsDetalles.h"
+
+1760841942 c:\users\matias\desktop\gestionbit\clsdetalles.h
+
+1761168513 source:c:\users\matias\desktop\gestionbit\clsarchivoproductos.cpp
+	<iostream>
+	<cstring>
+	"clsArchivoProductos.h"
+	"clsProducto.h"
+
+1760843212 source:c:\users\matias\desktop\gestionbit\clsarchivoventas.cpp
+	<iostream>
+	<cstring>
+
+1760838274 source:c:\users\matias\desktop\gestionbit\clsclientes.cpp
+	<iostream>
+	<cstring>
+	"clsClientes.h"
+	"clsFecha.h"
+	"cargarCadena.h"
+
+1760837680 c:\users\matias\desktop\gestionbit\cargarcadena.h
+
+1761168417 source:c:\users\matias\desktop\gestionbit\clsdetalles.cpp
+	<iostream>
+	<cstring>
+	"clsDetalles.h"
+
+1760837662 source:c:\users\matias\desktop\gestionbit\clsfecha.cpp
+	<iostream>
+	"clsFecha.h"
+
+1761168417 source:c:\users\matias\desktop\gestionbit\clsproducto.cpp
+	<iostream>
+	<cstring>
+	"clsProducto.h"
+	"clsFecha.h"
+	"cargarCadena.h"
+
+1760844860 c:\users\matias\desktop\gestionbit\clsproducto.h
+
+1761169035 source:c:\users\matias\desktop\gestionbit\funcionescliente.cpp
+	<iostream>
+	<cstring>
+	"clsClientes.h"
+	"funcionesCliente.h"
+	"clsArchivoClientes.h"
+	"clsFecha.h"
+	"cargarCadena.h"
+
+1761132972 c:\users\matias\desktop\gestionbit\funcionescliente.h
+
+1761168946 source:c:\users\matias\desktop\gestionbit\funcionesdetalle.cpp
+	<iostream>
+	<cstring>
+	"funcionesDetalle.h"
+	"clsDetalles.h"
+	"clsArchivoDetalles.h"
+
+1761138728 c:\users\matias\desktop\gestionbit\funcionesdetalle.h
+
+1761168650 source:c:\users\matias\desktop\gestionbit\funcionesproducto.cpp
+	<iostream>
+	<cstring>
+	"clsProducto.h"
+	"clsArchivoProductos.h"
+	"funcionesMenus.h"
+	"funcionesProducto.h"
+	"cargarCadena.h"
+
+1760843174 source:c:\users\matias\desktop\gestionbit\funcionesventa.cpp
+	<iostream>
+	<cstring>
+
+1761140418 source:c:\users\matias\desktop\gestionbit\main.cpp
+	<iostream>
+	"menuPrincipal.h"
+
+1760836580 c:\users\matias\desktop\gestionbit\menuprincipal.h
+
+1761132990 source:c:\users\matias\desktop\gestionbit\menuprincipal.cpp
+	<iostream>
+	<cstring>
+	"funcionesCliente.h"
+	"funcionesDetalle.h"
+	"funcionesProducto.h"
+	"funcionesVenta.h"
+	"funcionesMenus.h"
+
+1761142926 c:\users\matias\desktop\gestionbit\funcionesproducto.h
+
+1761132972 c:\users\matias\desktop\gestionbit\funcionesventa.h
+
+1761134276 c:\users\matias\desktop\gestionbit\funcionesmenus.h
+
+1761142271 c:\users\matias\desktop\gestionbit\clsarchivoproductos.h
+	"clsProducto.h"
+
+1761164241 source:c:\users\matias\desktop\gestionbit\clsmenuproductos.cpp
+	<iostream>
+	"funcionesProducto.h"
+
+1761168938 source:c:\users\matias\desktop\gestionbit\clsmenudetalle.cpp
+	<iostream>
+	"funcionesDetalle.h"
+
+1761169035 source:c:\users\matias\desktop\gestionbit\clsmenuclientes.cpp
+	<iostream>
+	"funcionesCliente.h"
+
+1761173345 source:c:\users\tesag\onedrive\utn\3er cuatrimestre\programación 2\integrador_discord\gestionbit\gestionbit\cargarcadena.cpp
+	<iostream>
+	<cstring>
+
+1761173345 source:c:\users\tesag\onedrive\utn\3er cuatrimestre\programación 2\integrador_discord\gestionbit\gestionbit\clsarchivoclientes.cpp
+	<iostream>
+	<cstring>
+	"clsArchivoClientes.h"
+
+1761173345 c:\users\tesag\onedrive\utn\3er cuatrimestre\programación 2\integrador_discord\gestionbit\gestionbit\clsarchivoclientes.h
+	"clsClientes.h"
+
+1761180565 c:\users\tesag\onedrive\utn\3er cuatrimestre\programación 2\integrador_discord\gestionbit\gestionbit\clsclientes.h
+	"clsfecha.h"
+
+1761173346 c:\users\tesag\onedrive\utn\3er cuatrimestre\programación 2\integrador_discord\gestionbit\gestionbit\clsfecha.h
+
+1761173345 source:c:\users\tesag\onedrive\utn\3er cuatrimestre\programación 2\integrador_discord\gestionbit\gestionbit\clsarchivodetalles.cpp
+	<iostream>
+	<cstring>
+	"clsArchivoDetalles.h"
+	"clsDetalles.h"
+
+1761173345 c:\users\tesag\onedrive\utn\3er cuatrimestre\programación 2\integrador_discord\gestionbit\gestionbit\clsarchivodetalles.h
+	"clsDetalles.h"
+
+1761173346 c:\users\tesag\onedrive\utn\3er cuatrimestre\programación 2\integrador_discord\gestionbit\gestionbit\clsdetalles.h
+
+1761173345 source:c:\users\tesag\onedrive\utn\3er cuatrimestre\programación 2\integrador_discord\gestionbit\gestionbit\clsarchivoproductos.cpp
+	<iostream>
+	<cstring>
+	"clsArchivoProductos.h"
+	"clsProducto.h"
+
+1761173345 c:\users\tesag\onedrive\utn\3er cuatrimestre\programación 2\integrador_discord\gestionbit\gestionbit\clsarchivoproductos.h
+	"clsProducto.h"
+
+1761173346 c:\users\tesag\onedrive\utn\3er cuatrimestre\programación 2\integrador_discord\gestionbit\gestionbit\clsproducto.h
+
+1761259554 source:c:\users\tesag\onedrive\utn\3er cuatrimestre\programación 2\integrador_discord\gestionbit\gestionbit\clsarchivoventas.cpp
+	<iostream>
+	<cstring>
+	"clsArchivoVentas.h"
+	"clsVentas.h"
+
+1761173345 source:c:\users\tesag\onedrive\utn\3er cuatrimestre\programación 2\integrador_discord\gestionbit\gestionbit\clsclientes.cpp
+	<iostream>
+	<cstring>
+	"clsClientes.h"
+	"clsFecha.h"
+	"cargarCadena.h"
+
+1761173345 c:\users\tesag\onedrive\utn\3er cuatrimestre\programación 2\integrador_discord\gestionbit\gestionbit\cargarcadena.h
+
+1761173346 source:c:\users\tesag\onedrive\utn\3er cuatrimestre\programación 2\integrador_discord\gestionbit\gestionbit\clsdetalles.cpp
+	<iostream>
+	<cstring>
+	"clsDetalles.h"
+
+1761173346 source:c:\users\tesag\onedrive\utn\3er cuatrimestre\programación 2\integrador_discord\gestionbit\gestionbit\clsfecha.cpp
+	<iostream>
+	"clsFecha.h"
+
+1761173346 source:c:\users\tesag\onedrive\utn\3er cuatrimestre\programación 2\integrador_discord\gestionbit\gestionbit\clsmenuclientes.cpp
+	<iostream>
+	"funcionesCliente.h"
+
+1761173346 c:\users\tesag\onedrive\utn\3er cuatrimestre\programación 2\integrador_discord\gestionbit\gestionbit\funcionescliente.h
+
+1761173346 source:c:\users\tesag\onedrive\utn\3er cuatrimestre\programación 2\integrador_discord\gestionbit\gestionbit\clsmenudetalle.cpp
+	<iostream>
+	"funcionesDetalle.h"
+
+1761173346 c:\users\tesag\onedrive\utn\3er cuatrimestre\programación 2\integrador_discord\gestionbit\gestionbit\funcionesdetalle.h
+
+1761173346 source:c:\users\tesag\onedrive\utn\3er cuatrimestre\programación 2\integrador_discord\gestionbit\gestionbit\clsmenuproductos.cpp
+	<iostream>
+	"funcionesProducto.h"
+
+1761173346 c:\users\tesag\onedrive\utn\3er cuatrimestre\programación 2\integrador_discord\gestionbit\gestionbit\funcionesproducto.h
+
+1761173346 source:c:\users\tesag\onedrive\utn\3er cuatrimestre\programación 2\integrador_discord\gestionbit\gestionbit\funcionescliente.cpp
+	<iostream>
+	<cstring>
+	"clsClientes.h"
+	"funcionesCliente.h"
+	"clsArchivoClientes.h"
+	"clsFecha.h"
+	"cargarCadena.h"
+
+1761261101 source:c:\users\tesag\onedrive\utn\3er cuatrimestre\programación 2\integrador_discord\gestionbit\gestionbit\funcionesdetalle.cpp
+	<iostream>
+	<cstring>
+	"funcionesDetalle.h"
+	"clsDetalles.h"
+	"clsArchivoDetalles.h"
+
+1761173346 source:c:\users\tesag\onedrive\utn\3er cuatrimestre\programación 2\integrador_discord\gestionbit\gestionbit\funcionesproducto.cpp
+	<iostream>
+	<cstring>
+	"clsProducto.h"
+	"clsArchivoProductos.h"
+	"funcionesMenus.h"
+	"funcionesProducto.h"
+	"cargarCadena.h"
+
+1761173346 c:\users\tesag\onedrive\utn\3er cuatrimestre\programación 2\integrador_discord\gestionbit\gestionbit\funcionesmenus.h
+
+1761173346 source:c:\users\tesag\onedrive\utn\3er cuatrimestre\programación 2\integrador_discord\gestionbit\gestionbit\main.cpp
+	<iostream>
+	"menuPrincipal.h"
+
+1761173346 c:\users\tesag\onedrive\utn\3er cuatrimestre\programación 2\integrador_discord\gestionbit\gestionbit\menuprincipal.h
+
+1761173346 source:c:\users\tesag\onedrive\utn\3er cuatrimestre\programación 2\integrador_discord\gestionbit\gestionbit\menuprincipal.cpp
+	<iostream>
+	<cstring>
+	"funcionesCliente.h"
+	"funcionesDetalle.h"
+	"funcionesProducto.h"
+	"funcionesVenta.h"
+	"funcionesMenus.h"
+
+1761261359 c:\users\tesag\onedrive\utn\3er cuatrimestre\programación 2\integrador_discord\gestionbit\gestionbit\funcionesventa.h
+
+1761179449 source:c:\users\tesag\onedrive\utn\3er cuatrimestre\programación 2\integrador_discord\gestionbit\gestionbit\clsproducto.cpp
+	<iostream>
+	<cstring>
+	"clsProducto.h"
+	"clsFecha.h"
+	"cargarCadena.h"
+
+1761261444 source:c:\users\tesag\onedrive\utn\3er cuatrimestre\programación 2\integrador_discord\gestionbit\gestionbit\funcionesventa.cpp
+	<iostream>
+	<cstring>
+	"clsVentas.h"
+	"clsArchivoVentas.h"
+	"cargarCadena.h"
+
+1761181938 source:c:\users\tesag\onedrive\utn\3er cuatrimestre\programación 2\integrador_discord\gestionbit\gestionbit\clsventas.cpp
+	<iostream>
+	<cstring>
+	"clsFecha.h"
+	"clsVentas.h"
+	"cargarCadena.h"
+
+1761181896 c:\users\tesag\onedrive\utn\3er cuatrimestre\programación 2\integrador_discord\gestionbit\gestionbit\clsventas.h
+	"clsFecha.h"
+
+1761259478 c:\users\tesag\onedrive\utn\3er cuatrimestre\programación 2\integrador_discord\gestionbit\gestionbit\clsarchivoventas.h
+	"clsVentas.h"
+
+1761173345 source:c:\users\julii\desktop\proyecto infomatica\gestionbit 3.0\gestionbit\cargarcadena.cpp
+	<iostream>
+	<cstring>
+
+1761173345 source:c:\users\julii\desktop\proyecto infomatica\gestionbit 3.0\gestionbit\clsarchivoclientes.cpp
+	<iostream>
+	<cstring>
+	"clsArchivoClientes.h"
+
+1761173345 c:\users\julii\desktop\proyecto infomatica\gestionbit 3.0\gestionbit\clsarchivoclientes.h
+	"clsClientes.h"
+
+1761180565 c:\users\julii\desktop\proyecto infomatica\gestionbit 3.0\gestionbit\clsclientes.h
+	"clsfecha.h"
+
+1761173346 c:\users\julii\desktop\proyecto infomatica\gestionbit 3.0\gestionbit\clsfecha.h
+
+1761173345 source:c:\users\julii\desktop\proyecto infomatica\gestionbit 3.0\gestionbit\clsarchivodetalles.cpp
+	<iostream>
+	<cstring>
+	"clsArchivoDetalles.h"
+	"clsDetalles.h"
+
+1761173345 c:\users\julii\desktop\proyecto infomatica\gestionbit 3.0\gestionbit\clsarchivodetalles.h
+	"clsDetalles.h"
+
+1761173346 c:\users\julii\desktop\proyecto infomatica\gestionbit 3.0\gestionbit\clsdetalles.h
+
+1761173345 source:c:\users\julii\desktop\proyecto infomatica\gestionbit 3.0\gestionbit\clsarchivoproductos.cpp
+	<iostream>
+	<cstring>
+	"clsArchivoProductos.h"
+	"clsProducto.h"
+
+1761173345 c:\users\julii\desktop\proyecto infomatica\gestionbit 3.0\gestionbit\clsarchivoproductos.h
+	"clsProducto.h"
+
+1761173346 c:\users\julii\desktop\proyecto infomatica\gestionbit 3.0\gestionbit\clsproducto.h
+
+1761259554 source:c:\users\julii\desktop\proyecto infomatica\gestionbit 3.0\gestionbit\clsarchivoventas.cpp
+	<iostream>
+	<cstring>
+	"clsArchivoVentas.h"
+	"clsVentas.h"
+
+1761259478 c:\users\julii\desktop\proyecto infomatica\gestionbit 3.0\gestionbit\clsarchivoventas.h
+	"clsVentas.h"
+
+1761739073 c:\users\julii\desktop\proyecto infomatica\gestionbit 3.0\gestionbit\clsventas.h
+	"clsFecha.h"
+
+1761173345 source:c:\users\julii\desktop\proyecto infomatica\gestionbit 3.0\gestionbit\clsclientes.cpp
+	<iostream>
+	<cstring>
+	"clsClientes.h"
+	"clsFecha.h"
+	"cargarCadena.h"
+
+1761173345 c:\users\julii\desktop\proyecto infomatica\gestionbit 3.0\gestionbit\cargarcadena.h
+
+1761173346 source:c:\users\julii\desktop\proyecto infomatica\gestionbit 3.0\gestionbit\clsdetalles.cpp
+	<iostream>
+	<cstring>
+	"clsDetalles.h"
+
+1761173346 source:c:\users\julii\desktop\proyecto infomatica\gestionbit 3.0\gestionbit\clsmenuclientes.cpp
+	<iostream>
+	"funcionesCliente.h"
+
+1761173346 c:\users\julii\desktop\proyecto infomatica\gestionbit 3.0\gestionbit\funcionescliente.h
+
+1761173346 source:c:\users\julii\desktop\proyecto infomatica\gestionbit 3.0\gestionbit\clsmenudetalle.cpp
+	<iostream>
+	"funcionesDetalle.h"
+
+1761173346 c:\users\julii\desktop\proyecto infomatica\gestionbit 3.0\gestionbit\funcionesdetalle.h
+
+1761173346 source:c:\users\julii\desktop\proyecto infomatica\gestionbit 3.0\gestionbit\clsmenuproductos.cpp
+	<iostream>
+	"funcionesProducto.h"
+
+1761173346 c:\users\julii\desktop\proyecto infomatica\gestionbit 3.0\gestionbit\funcionesproducto.h
+
+1761179449 source:c:\users\julii\desktop\proyecto infomatica\gestionbit 3.0\gestionbit\clsproducto.cpp
+	<iostream>
+	<cstring>
+	"clsProducto.h"
+	"clsFecha.h"
+	"cargarCadena.h"
+
+1761181938 source:c:\users\julii\desktop\proyecto infomatica\gestionbit 3.0\gestionbit\clsventas.cpp
+	<iostream>
+	<cstring>
+	"clsFecha.h"
+	"clsVentas.h"
+	"cargarCadena.h"
+
+1761173346 source:c:\users\julii\desktop\proyecto infomatica\gestionbit 3.0\gestionbit\funcionescliente.cpp
+	<iostream>
+	<cstring>
+	"clsClientes.h"
+	"funcionesCliente.h"
+	"clsArchivoClientes.h"
+	"clsFecha.h"
+	"cargarCadena.h"
+
+1761261101 source:c:\users\julii\desktop\proyecto infomatica\gestionbit 3.0\gestionbit\funcionesdetalle.cpp
+	<iostream>
+	<cstring>
+	"funcionesDetalle.h"
+	"clsDetalles.h"
+	"clsArchivoDetalles.h"
+
+1761173346 source:c:\users\julii\desktop\proyecto infomatica\gestionbit 3.0\gestionbit\funcionesproducto.cpp
+	<iostream>
+	<cstring>
+	"clsProducto.h"
+	"clsArchivoProductos.h"
+	"funcionesMenus.h"
+	"funcionesProducto.h"
+	"cargarCadena.h"
+
+1763083688 c:\users\julii\desktop\proyecto infomatica\gestionbit 3.0\gestionbit\funcionesmenus.h
+
+1761261444 source:c:\users\julii\desktop\proyecto infomatica\gestionbit 3.0\gestionbit\funcionesventa.cpp
+	<iostream>
+	<cstring>
+	"clsVentas.h"
+	"clsArchivoVentas.h"
+	"cargarCadena.h"
+
+1761173346 source:c:\users\julii\desktop\proyecto infomatica\gestionbit 3.0\gestionbit\main.cpp
+	<iostream>
+	"menuPrincipal.h"
+
+1761173346 c:\users\julii\desktop\proyecto infomatica\gestionbit 3.0\gestionbit\menuprincipal.h
+
+1763084214 source:c:\users\julii\desktop\proyecto infomatica\gestionbit 3.0\gestionbit\menuprincipal.cpp
+	<iostream>
+	<cstring>
+	"funcionesCliente.h"
+	"funcionesDetalle.h"
+	"funcionesProducto.h"
+	"funcionesVenta.h"
+	"funcionesMenus.h"
+
+1761261359 c:\users\julii\desktop\proyecto infomatica\gestionbit 3.0\gestionbit\funcionesventa.h
+
+1761261517 source:c:\users\julii\desktop\proyecto infomatica\gestionbit 3.0\gestionbit\menuventas.cpp
+	<iostream>
+	"funcionesVenta.h"
+
+1761739273 source:c:\users\julii\desktop\proyecto infomatica\gestionbit 3.0\gestionbit\clsfecha.cpp
+	<iostream>
+	"clsFecha.h"
+
+1761173345 source:c:\users\julii\desktop\proyecto infomatica\gestionbit 3.0\gestionbit 4.0\cargarcadena.cpp
+	<iostream>
+	<cstring>
+
+1761173345 source:c:\users\julii\desktop\proyecto infomatica\gestionbit 3.0\gestionbit 4.0\clsarchivoclientes.cpp
+	<iostream>
+	<cstring>
+	"clsArchivoClientes.h"
+
+1761173345 c:\users\julii\desktop\proyecto infomatica\gestionbit 3.0\gestionbit 4.0\clsarchivoclientes.h
+	"clsClientes.h"
+
+1761180565 c:\users\julii\desktop\proyecto infomatica\gestionbit 3.0\gestionbit 4.0\clsclientes.h
+	"clsfecha.h"
+
+1761173346 c:\users\julii\desktop\proyecto infomatica\gestionbit 3.0\gestionbit 4.0\clsfecha.h
+
+1761173345 source:c:\users\julii\desktop\proyecto infomatica\gestionbit 3.0\gestionbit 4.0\clsarchivodetalles.cpp
+	<iostream>
+	<cstring>
+	"clsArchivoDetalles.h"
+	"clsDetalles.h"
+
+1761173345 c:\users\julii\desktop\proyecto infomatica\gestionbit 3.0\gestionbit 4.0\clsarchivodetalles.h
+	"clsDetalles.h"
+
+1761173346 c:\users\julii\desktop\proyecto infomatica\gestionbit 3.0\gestionbit 4.0\clsdetalles.h
+
+1761173345 source:c:\users\julii\desktop\proyecto infomatica\gestionbit 3.0\gestionbit 4.0\clsarchivoproductos.cpp
+	<iostream>
+	<cstring>
+	"clsArchivoProductos.h"
+	"clsProducto.h"
+
+1761173345 c:\users\julii\desktop\proyecto infomatica\gestionbit 3.0\gestionbit 4.0\clsarchivoproductos.h
+	"clsProducto.h"
+
+1761173346 c:\users\julii\desktop\proyecto infomatica\gestionbit 3.0\gestionbit 4.0\clsproducto.h
+
+1761259554 source:c:\users\julii\desktop\proyecto infomatica\gestionbit 3.0\gestionbit 4.0\clsarchivoventas.cpp
+	<iostream>
+	<cstring>
+	"clsArchivoVentas.h"
+	"clsVentas.h"
+
+1761259478 c:\users\julii\desktop\proyecto infomatica\gestionbit 3.0\gestionbit 4.0\clsarchivoventas.h
+	"clsVentas.h"
+
+1761739073 c:\users\julii\desktop\proyecto infomatica\gestionbit 3.0\gestionbit 4.0\clsventas.h
+	"clsFecha.h"
+
+1761173345 source:c:\users\julii\desktop\proyecto infomatica\gestionbit 3.0\gestionbit 4.0\clsclientes.cpp
+	<iostream>
+	<cstring>
+	"clsClientes.h"
+	"clsFecha.h"
+	"cargarCadena.h"
+
+1761173345 c:\users\julii\desktop\proyecto infomatica\gestionbit 3.0\gestionbit 4.0\cargarcadena.h
+
+1761173346 source:c:\users\julii\desktop\proyecto infomatica\gestionbit 3.0\gestionbit 4.0\clsdetalles.cpp
+	<iostream>
+	<cstring>
+	"clsDetalles.h"
+
+1761739273 source:c:\users\julii\desktop\proyecto infomatica\gestionbit 3.0\gestionbit 4.0\clsfecha.cpp
+	<iostream>
+	"clsFecha.h"
+
+1761173346 source:c:\users\julii\desktop\proyecto infomatica\gestionbit 3.0\gestionbit 4.0\clsmenuclientes.cpp
+	<iostream>
+	"funcionesCliente.h"
+
+1761173346 c:\users\julii\desktop\proyecto infomatica\gestionbit 3.0\gestionbit 4.0\funcionescliente.h
+
+1761173346 source:c:\users\julii\desktop\proyecto infomatica\gestionbit 3.0\gestionbit 4.0\clsmenudetalle.cpp
+	<iostream>
+	"funcionesDetalle.h"
+
+1761173346 c:\users\julii\desktop\proyecto infomatica\gestionbit 3.0\gestionbit 4.0\funcionesdetalle.h
+
+1761173346 source:c:\users\julii\desktop\proyecto infomatica\gestionbit 3.0\gestionbit 4.0\clsmenuproductos.cpp
+	<iostream>
+	"funcionesProducto.h"
+
+1761173346 c:\users\julii\desktop\proyecto infomatica\gestionbit 3.0\gestionbit 4.0\funcionesproducto.h
+
+1761179449 source:c:\users\julii\desktop\proyecto infomatica\gestionbit 3.0\gestionbit 4.0\clsproducto.cpp
+	<iostream>
+	<cstring>
+	"clsProducto.h"
+	"clsFecha.h"
+	"cargarCadena.h"
+
+1761181938 source:c:\users\julii\desktop\proyecto infomatica\gestionbit 3.0\gestionbit 4.0\clsventas.cpp
+	<iostream>
+	<cstring>
+	"clsFecha.h"
+	"clsVentas.h"
+	"cargarCadena.h"
+
+1761173346 source:c:\users\julii\desktop\proyecto infomatica\gestionbit 3.0\gestionbit 4.0\funcionescliente.cpp
+	<iostream>
+	<cstring>
+	"clsClientes.h"
+	"funcionesCliente.h"
+	"clsArchivoClientes.h"
+	"clsFecha.h"
+	"cargarCadena.h"
+
+1761261101 source:c:\users\julii\desktop\proyecto infomatica\gestionbit 3.0\gestionbit 4.0\funcionesdetalle.cpp
+	<iostream>
+	<cstring>
+	"funcionesDetalle.h"
+	"clsDetalles.h"
+	"clsArchivoDetalles.h"
+
+1761173346 source:c:\users\julii\desktop\proyecto infomatica\gestionbit 3.0\gestionbit 4.0\funcionesproducto.cpp
+	<iostream>
+	<cstring>
+	"clsProducto.h"
+	"clsArchivoProductos.h"
+	"funcionesMenus.h"
+	"funcionesProducto.h"
+	"cargarCadena.h"
+
+1763083688 c:\users\julii\desktop\proyecto infomatica\gestionbit 3.0\gestionbit 4.0\funcionesmenus.h
+
+1761261444 source:c:\users\julii\desktop\proyecto infomatica\gestionbit 3.0\gestionbit 4.0\funcionesventa.cpp
+	<iostream>
+	<cstring>
+	"clsVentas.h"
+	"clsArchivoVentas.h"
+	"cargarCadena.h"
+
+1761173346 source:c:\users\julii\desktop\proyecto infomatica\gestionbit 3.0\gestionbit 4.0\main.cpp
+	<iostream>
+	"menuPrincipal.h"
+
+1761173346 c:\users\julii\desktop\proyecto infomatica\gestionbit 3.0\gestionbit 4.0\menuprincipal.h
+
+1763130139 source:c:\users\julii\desktop\proyecto infomatica\gestionbit 3.0\gestionbit 4.0\menuprincipal.cpp
+	<iostream>
+	<cstring>
+	"funcionesCliente.h"
+	"funcionesDetalle.h"
+	"funcionesProducto.h"
+	"funcionesVenta.h"
+	"funcionesMenus.h"
+
+1761261359 c:\users\julii\desktop\proyecto infomatica\gestionbit 3.0\gestionbit 4.0\funcionesventa.h
+
+1761261517 source:c:\users\julii\desktop\proyecto infomatica\gestionbit 3.0\gestionbit 4.0\menuventas.cpp
+	<iostream>
+	"funcionesVenta.h"
+
+1761173345 source:c:\users\juanc\onedrive\datos adjuntos\gestionbit 4.1\gestionbit 4.1\cargarcadena.cpp
+	<iostream>
+	<cstring>
+
+1763231579 source:c:\users\juanc\onedrive\datos adjuntos\gestionbit 4.1\gestionbit 4.1\clsarchivoclientes.cpp
+	<iostream>
+	<cstring>
+	"clsArchivoClientes.h"
+
+1763228099 c:\users\juanc\onedrive\datos adjuntos\gestionbit 4.1\gestionbit 4.1\clsarchivoclientes.h
+	"clsClientes.h"
+
+1761180565 c:\users\juanc\onedrive\datos adjuntos\gestionbit 4.1\gestionbit 4.1\clsclientes.h
+	"clsfecha.h"
+
+1761173346 c:\users\juanc\onedrive\datos adjuntos\gestionbit 4.1\gestionbit 4.1\clsfecha.h
+
+1763231579 source:c:\users\juanc\onedrive\datos adjuntos\gestionbit 4.1\gestionbit 4.1\clsarchivodetalles.cpp
+	<iostream>
+	<cstring>
+	"clsArchivoDetalles.h"
+	"clsDetalles.h"
+
+1761173345 c:\users\juanc\onedrive\datos adjuntos\gestionbit 4.1\gestionbit 4.1\clsarchivodetalles.h
+	"clsDetalles.h"
+
+1761173346 c:\users\juanc\onedrive\datos adjuntos\gestionbit 4.1\gestionbit 4.1\clsdetalles.h
+
+1763231045 source:c:\users\juanc\onedrive\datos adjuntos\gestionbit 4.1\gestionbit 4.1\clsarchivoproductos.cpp
+	<iostream>
+	<cstring>
+	"clsArchivoProductos.h"
+	"clsProducto.h"
+
+1763229848 c:\users\juanc\onedrive\datos adjuntos\gestionbit 4.1\gestionbit 4.1\clsarchivoproductos.h
+	"clsProducto.h"
+
+1761173346 c:\users\juanc\onedrive\datos adjuntos\gestionbit 4.1\gestionbit 4.1\clsproducto.h
+
+1763230845 source:c:\users\juanc\onedrive\datos adjuntos\gestionbit 4.1\gestionbit 4.1\clsarchivoventas.cpp
+	<iostream>
+	<cstring>
+	"clsArchivoVentas.h"
+	"clsVentas.h"
+
+1763230609 c:\users\juanc\onedrive\datos adjuntos\gestionbit 4.1\gestionbit 4.1\clsarchivoventas.h
+	"clsVentas.h"
+
+1761739073 c:\users\juanc\onedrive\datos adjuntos\gestionbit 4.1\gestionbit 4.1\clsventas.h
+	"clsFecha.h"
+
+1763231460 source:c:\users\juanc\onedrive\datos adjuntos\gestionbit 4.1\gestionbit 4.1\clsclientes.cpp
+	<iostream>
+	<cstring>
+	"clsClientes.h"
+	"clsFecha.h"
+	"cargarCadena.h"
+
+1761173345 c:\users\juanc\onedrive\datos adjuntos\gestionbit 4.1\gestionbit 4.1\cargarcadena.h
+
+1763232223 source:c:\users\juanc\onedrive\datos adjuntos\gestionbit 4.1\gestionbit 4.1\clsdetalles.cpp
+	<iostream>
+	<cstring>
+	"clsDetalles.h"
+
+1763240133 source:c:\users\juanc\onedrive\datos adjuntos\gestionbit 4.1\gestionbit 4.1\clsfecha.cpp
+	<iostream>
+	"clsFecha.h"
+
+1763229848 source:c:\users\juanc\onedrive\datos adjuntos\gestionbit 4.1\gestionbit 4.1\clsmenuclientes.cpp
+	<iostream>
+	"funcionesCliente.h"
+
+1763228048 c:\users\juanc\onedrive\datos adjuntos\gestionbit 4.1\gestionbit 4.1\funcionescliente.h
+
+1763229848 source:c:\users\juanc\onedrive\datos adjuntos\gestionbit 4.1\gestionbit 4.1\clsmenudetalle.cpp
+	<iostream>
+	"funcionesDetalle.h"
+
+1763237039 c:\users\juanc\onedrive\datos adjuntos\gestionbit 4.1\gestionbit 4.1\funcionesdetalle.h
+
+1763229893 source:c:\users\juanc\onedrive\datos adjuntos\gestionbit 4.1\gestionbit 4.1\clsmenuproductos.cpp
+	<iostream>
+	"funcionesProducto.h"
+
+1763229848 c:\users\juanc\onedrive\datos adjuntos\gestionbit 4.1\gestionbit 4.1\funcionesproducto.h
+
+1763231501 source:c:\users\juanc\onedrive\datos adjuntos\gestionbit 4.1\gestionbit 4.1\clsproducto.cpp
+	<iostream>
+	<cstring>
+	"clsProducto.h"
+	"clsFecha.h"
+	"cargarCadena.h"
+
+1763231460 source:c:\users\juanc\onedrive\datos adjuntos\gestionbit 4.1\gestionbit 4.1\clsventas.cpp
+	<iostream>
+	<cstring>
+	"clsFecha.h"
+	"clsVentas.h"
+	"cargarCadena.h"
+
+1763229173 source:c:\users\juanc\onedrive\datos adjuntos\gestionbit 4.1\gestionbit 4.1\funcionescliente.cpp
+	<iostream>
+	<cstring>
+	"clsClientes.h"
+	"clsArchivoClientes.h"
+	"funcionesCliente.h"
+	"clsFecha.h"
+	"cargarCadena.h"
+
+1763237039 source:c:\users\juanc\onedrive\datos adjuntos\gestionbit 4.1\gestionbit 4.1\funcionesdetalle.cpp
+	<iostream>
+	<cstring>
+	"funcionesDetalle.h"
+	"clsDetalles.h"
+	"clsArchivoDetalles.h"
+
+1763230322 source:c:\users\juanc\onedrive\datos adjuntos\gestionbit 4.1\gestionbit 4.1\funcionesproducto.cpp
+	<iostream>
+	<cstring>
+	"clsProducto.h"
+	"clsArchivoProductos.h"
+	"funcionesMenus.h"
+	"funcionesProducto.h"
+	"cargarCadena.h"
+
+1763083688 c:\users\juanc\onedrive\datos adjuntos\gestionbit 4.1\gestionbit 4.1\funcionesmenus.h
+
+1763230845 source:c:\users\juanc\onedrive\datos adjuntos\gestionbit 4.1\gestionbit 4.1\funcionesventa.cpp
+	<iostream>
+	<cstring>
+	"clsVentas.h"
+	"clsArchivoVentas.h"
+	"cargarCadena.h"
+
+1761173346 source:c:\users\juanc\onedrive\datos adjuntos\gestionbit 4.1\gestionbit 4.1\main.cpp
+	<iostream>
+	"menuPrincipal.h"
+
+1761173346 c:\users\juanc\onedrive\datos adjuntos\gestionbit 4.1\gestionbit 4.1\menuprincipal.h
+
+1763130139 source:c:\users\juanc\onedrive\datos adjuntos\gestionbit 4.1\gestionbit 4.1\menuprincipal.cpp
+	<iostream>
+	<cstring>
+	"funcionesCliente.h"
+	"funcionesDetalle.h"
+	"funcionesProducto.h"
+	"funcionesVenta.h"
+	"funcionesMenus.h"
+
+1763230845 c:\users\juanc\onedrive\datos adjuntos\gestionbit 4.1\gestionbit 4.1\funcionesventa.h
+
+1761261517 source:c:\users\juanc\onedrive\datos adjuntos\gestionbit 4.1\gestionbit 4.1\menuventas.cpp
+	<iostream>
+	"funcionesVenta.h"
+
+1763240184 source:c:\users\juanc\onedrive\datos adjuntos\gestionbit 4.1\gestionbit 4.1\menureportes.cpp
+	<iostream>
+	"funcionesMenus.h"
+	"clsClientes.h"
+	"clsDetalles.h"
+	"clsVentas.h"
+	"clsProducto.h"
+	"clsFecha.h"
+	"reportes.h"
+
+1763239780 source:c:\users\juanc\onedrive\datos adjuntos\gestionbit 4.1\gestionbit 4.1\reportes.cpp
+	<iostream>
+	"clsArchivoVentas.h"
+	"clsVentas.h"
+	"clsArchivoDetalles.h"
+	"clsDetalles.h"
+	"reportes.h"
+
+1763230845 source:c:\users\juanc\onedrive\datos adjuntos\gestionbit 4.1\gestionbit 4.1\clsmenuventas.cpp
+	<iostream>
+	"funcionesVenta.h"
+
+1763239587 c:\users\juanc\onedrive\datos adjuntos\gestionbit 4.1\gestionbit 4.1\reportes.h
+
+1761173345 source:d:\programacion\code-blocks\gestionbit\gestionbit 4.1\cargarcadena.cpp
+	<iostream>
+	<cstring>
+
+1763231579 source:d:\programacion\code-blocks\gestionbit\gestionbit 4.1\clsarchivoclientes.cpp
+	<iostream>
+	<cstring>
+	"clsArchivoClientes.h"
+
+1763228099 d:\programacion\code-blocks\gestionbit\gestionbit 4.1\clsarchivoclientes.h
+	"clsClientes.h"
+
+1761180565 d:\programacion\code-blocks\gestionbit\gestionbit 4.1\clsclientes.h
+	"clsfecha.h"
+
+1761173346 d:\programacion\code-blocks\gestionbit\gestionbit 4.1\clsfecha.h
+
+1763231579 source:d:\programacion\code-blocks\gestionbit\gestionbit 4.1\clsarchivodetalles.cpp
+	<iostream>
+	<cstring>
+	"clsArchivoDetalles.h"
+	"clsDetalles.h"
+
+1761173345 d:\programacion\code-blocks\gestionbit\gestionbit 4.1\clsarchivodetalles.h
+	"clsDetalles.h"
+
+1763477428 d:\programacion\code-blocks\gestionbit\gestionbit 4.1\clsdetalles.h
+
+1763231045 source:d:\programacion\code-blocks\gestionbit\gestionbit 4.1\clsarchivoproductos.cpp
+	<iostream>
+	<cstring>
+	"clsArchivoProductos.h"
+	"clsProducto.h"
+
+1763229848 d:\programacion\code-blocks\gestionbit\gestionbit 4.1\clsarchivoproductos.h
+	"clsProducto.h"
+
+1761173346 d:\programacion\code-blocks\gestionbit\gestionbit 4.1\clsproducto.h
+
+1763230845 source:d:\programacion\code-blocks\gestionbit\gestionbit 4.1\clsarchivoventas.cpp
+	<iostream>
+	<cstring>
+	"clsArchivoVentas.h"
+	"clsVentas.h"
+
+1763230609 d:\programacion\code-blocks\gestionbit\gestionbit 4.1\clsarchivoventas.h
+	"clsVentas.h"
+
+1761739073 d:\programacion\code-blocks\gestionbit\gestionbit 4.1\clsventas.h
+	"clsFecha.h"
+
+1763395493 source:d:\programacion\code-blocks\gestionbit\gestionbit 4.1\clsclientes.cpp
+	<iostream>
+	<cstring>
+	"clsClientes.h"
+	"clsFecha.h"
+	"cargarCadena.h"
+
+1761173345 d:\programacion\code-blocks\gestionbit\gestionbit 4.1\cargarcadena.h
+
+1763559858 source:d:\programacion\code-blocks\gestionbit\gestionbit 4.1\clsdetalles.cpp
+	<iostream>
+	<cstring>
+	"clsDetalles.h"
+
+1763395472 source:d:\programacion\code-blocks\gestionbit\gestionbit 4.1\clsfecha.cpp
+	<iostream>
+	"clsFecha.h"
+
+1763229848 source:d:\programacion\code-blocks\gestionbit\gestionbit 4.1\clsmenuclientes.cpp
+	<iostream>
+	"funcionesCliente.h"
+
+1763228048 d:\programacion\code-blocks\gestionbit\gestionbit 4.1\funcionescliente.h
+
+1763229848 source:d:\programacion\code-blocks\gestionbit\gestionbit 4.1\clsmenudetalle.cpp
+	<iostream>
+	"funcionesDetalle.h"
+
+1763237039 d:\programacion\code-blocks\gestionbit\gestionbit 4.1\funcionesdetalle.h
+
+1763229893 source:d:\programacion\code-blocks\gestionbit\gestionbit 4.1\clsmenuproductos.cpp
+	<iostream>
+	"funcionesProducto.h"
+
+1763229848 d:\programacion\code-blocks\gestionbit\gestionbit 4.1\funcionesproducto.h
+
+1763230845 source:d:\programacion\code-blocks\gestionbit\gestionbit 4.1\clsmenuventas.cpp
+	<iostream>
+	"funcionesVenta.h"
+
+1763230845 d:\programacion\code-blocks\gestionbit\gestionbit 4.1\funcionesventa.h
+
+1763478565 source:d:\programacion\code-blocks\gestionbit\gestionbit 4.1\clsproducto.cpp
+	<iostream>
+	<cstring>
+	"clsProducto.h"
+	"clsFecha.h"
+	"cargarCadena.h"
+
+1763395515 source:d:\programacion\code-blocks\gestionbit\gestionbit 4.1\clsventas.cpp
+	<iostream>
+	<cstring>
+	"clsFecha.h"
+	"clsVentas.h"
+	"cargarCadena.h"
+
+1763229173 source:d:\programacion\code-blocks\gestionbit\gestionbit 4.1\funcionescliente.cpp
+	<iostream>
+	<cstring>
+	"clsClientes.h"
+	"clsArchivoClientes.h"
+	"funcionesCliente.h"
+	"clsFecha.h"
+	"cargarCadena.h"
+
+1763237039 source:d:\programacion\code-blocks\gestionbit\gestionbit 4.1\funcionesdetalle.cpp
+	<iostream>
+	<cstring>
+	"funcionesDetalle.h"
+	"clsDetalles.h"
+	"clsArchivoDetalles.h"
+
+1763230322 source:d:\programacion\code-blocks\gestionbit\gestionbit 4.1\funcionesproducto.cpp
+	<iostream>
+	<cstring>
+	"clsProducto.h"
+	"clsArchivoProductos.h"
+	"funcionesMenus.h"
+	"funcionesProducto.h"
+	"cargarCadena.h"
+
+1763083688 d:\programacion\code-blocks\gestionbit\gestionbit 4.1\funcionesmenus.h
+
+1763230845 source:d:\programacion\code-blocks\gestionbit\gestionbit 4.1\funcionesventa.cpp
+	<iostream>
+	<cstring>
+	"clsVentas.h"
+	"clsArchivoVentas.h"
+	"cargarCadena.h"
+
+1761173346 source:d:\programacion\code-blocks\gestionbit\gestionbit 4.1\main.cpp
+	<iostream>
+	"menuPrincipal.h"
+
+1761173346 d:\programacion\code-blocks\gestionbit\gestionbit 4.1\menuprincipal.h
+
+1763130139 source:d:\programacion\code-blocks\gestionbit\gestionbit 4.1\menuprincipal.cpp
+	<iostream>
+	<cstring>
+	"funcionesCliente.h"
+	"funcionesDetalle.h"
+	"funcionesProducto.h"
+	"funcionesVenta.h"
+	"funcionesMenus.h"
+
+1763239780 source:d:\programacion\code-blocks\gestionbit\gestionbit 4.1\reportes.cpp
+	<iostream>
+	"clsArchivoVentas.h"
+	"clsVentas.h"
+	"clsArchivoDetalles.h"
+	"clsDetalles.h"
+	"reportes.h"
+
+1763239587 d:\programacion\code-blocks\gestionbit\gestionbit 4.1\reportes.h
+
+1763588582 source:d:\programacion\code-blocks\gestionbit\gestionbit 4.1\menureportes.cpp
+	<iostream>
+	"funcionesMenus.h"
+	"clsClientes.h"
+	"clsDetalles.h"
+	"clsVentas.h"
+	"clsProducto.h"
+	"clsFecha.h"
+	"clsFuncionesReporte.h"
+
+1763559850 d:\programacion\code-blocks\gestionbit\gestionbit 4.1\clsfuncionesreporte.h
+
+1763588652 source:d:\programacion\code-blocks\gestionbit\gestionbit 4.1\clsfuncionesreporte.cpp
+	<iostream>
+	"clsArchivoClientes.h"
+	"clsArchivoDetalles.h"
+	"clsArchivoVentas.h"
+	"clsArchivoProductos.h"
+	"clsClientes.h"
+	"clsDetalles.h"
+	"clsVentas.h"
+	<cstring>
+
+1761173346 source:c:\users\julii\desktop\pdf progra\gestionbit 4.1\cargarcadena.cpp
+	<iostream>
+	<cstring>
+
+1763231580 source:c:\users\julii\desktop\pdf progra\gestionbit 4.1\clsarchivoclientes.cpp
+	<iostream>
+	<cstring>
+	"clsArchivoClientes.h"
+
+1763228100 c:\users\julii\desktop\pdf progra\gestionbit 4.1\clsarchivoclientes.h
+	"clsClientes.h"
+
+1761180566 c:\users\julii\desktop\pdf progra\gestionbit 4.1\clsclientes.h
+	"clsfecha.h"
+
+1761173346 c:\users\julii\desktop\pdf progra\gestionbit 4.1\clsfecha.h
+
+1763231580 source:c:\users\julii\desktop\pdf progra\gestionbit 4.1\clsarchivodetalles.cpp
+	<iostream>
+	<cstring>
+	"clsArchivoDetalles.h"
+	"clsDetalles.h"
+
+1761173346 c:\users\julii\desktop\pdf progra\gestionbit 4.1\clsarchivodetalles.h
+	"clsDetalles.h"
+
+1763477430 c:\users\julii\desktop\pdf progra\gestionbit 4.1\clsdetalles.h
+
+1763231046 source:c:\users\julii\desktop\pdf progra\gestionbit 4.1\clsarchivoproductos.cpp
+	<iostream>
+	<cstring>
+	"clsArchivoProductos.h"
+	"clsProducto.h"
+
+1763229848 c:\users\julii\desktop\pdf progra\gestionbit 4.1\clsarchivoproductos.h
+	"clsProducto.h"
+
+1761173346 c:\users\julii\desktop\pdf progra\gestionbit 4.1\clsproducto.h
+
+1763230846 source:c:\users\julii\desktop\pdf progra\gestionbit 4.1\clsarchivoventas.cpp
+	<iostream>
+	<cstring>
+	"clsArchivoVentas.h"
+	"clsVentas.h"
+
+1763230610 c:\users\julii\desktop\pdf progra\gestionbit 4.1\clsarchivoventas.h
+	"clsVentas.h"
+
+1761739074 c:\users\julii\desktop\pdf progra\gestionbit 4.1\clsventas.h
+	"clsFecha.h"
+
+1763395494 source:c:\users\julii\desktop\pdf progra\gestionbit 4.1\clsclientes.cpp
+	<iostream>
+	<cstring>
+	"clsClientes.h"
+	"clsFecha.h"
+	"cargarCadena.h"
+
+1761173346 c:\users\julii\desktop\pdf progra\gestionbit 4.1\cargarcadena.h
+
+1763559860 source:c:\users\julii\desktop\pdf progra\gestionbit 4.1\clsdetalles.cpp
+	<iostream>
+	<cstring>
+	"clsDetalles.h"
+
+1763395474 source:c:\users\julii\desktop\pdf progra\gestionbit 4.1\clsfecha.cpp
+	<iostream>
+	"clsFecha.h"
+
+1763588654 source:c:\users\julii\desktop\pdf progra\gestionbit 4.1\clsfuncionesreporte.cpp
+	<iostream>
+	"clsArchivoClientes.h"
+	"clsArchivoDetalles.h"
+	"clsArchivoVentas.h"
+	"clsArchivoProductos.h"
+	"clsClientes.h"
+	"clsDetalles.h"
+	"clsVentas.h"
+	<cstring>
+
+1763229848 source:c:\users\julii\desktop\pdf progra\gestionbit 4.1\clsmenuclientes.cpp
+	<iostream>
+	"funcionesCliente.h"
+
+1763228048 c:\users\julii\desktop\pdf progra\gestionbit 4.1\funcionescliente.h
+
+1763229848 source:c:\users\julii\desktop\pdf progra\gestionbit 4.1\clsmenudetalle.cpp
+	<iostream>
+	"funcionesDetalle.h"
+
+1763237040 c:\users\julii\desktop\pdf progra\gestionbit 4.1\funcionesdetalle.h
+
+1763229894 source:c:\users\julii\desktop\pdf progra\gestionbit 4.1\clsmenuproductos.cpp
+	<iostream>
+	"funcionesProducto.h"
+
+1763229848 c:\users\julii\desktop\pdf progra\gestionbit 4.1\funcionesproducto.h
+
+1763230846 source:c:\users\julii\desktop\pdf progra\gestionbit 4.1\clsmenuventas.cpp
+	<iostream>
+	"funcionesVenta.h"
+
+1763230846 c:\users\julii\desktop\pdf progra\gestionbit 4.1\funcionesventa.h
+
+1763478566 source:c:\users\julii\desktop\pdf progra\gestionbit 4.1\clsproducto.cpp
+	<iostream>
+	<cstring>
+	"clsProducto.h"
+	"clsFecha.h"
+	"cargarCadena.h"
+
+1763395516 source:c:\users\julii\desktop\pdf progra\gestionbit 4.1\clsventas.cpp
+	<iostream>
+	<cstring>
+	"clsFecha.h"
+	"clsVentas.h"
+	"cargarCadena.h"
+
+1763229174 source:c:\users\julii\desktop\pdf progra\gestionbit 4.1\funcionescliente.cpp
+	<iostream>
+	<cstring>
+	"clsClientes.h"
+	"clsArchivoClientes.h"
+	"funcionesCliente.h"
+	"clsFecha.h"
+	"cargarCadena.h"
+
+1763237040 source:c:\users\julii\desktop\pdf progra\gestionbit 4.1\funcionesdetalle.cpp
+	<iostream>
+	<cstring>
+	"funcionesDetalle.h"
+	"clsDetalles.h"
+	"clsArchivoDetalles.h"
+
+1763230322 source:c:\users\julii\desktop\pdf progra\gestionbit 4.1\funcionesproducto.cpp
+	<iostream>
+	<cstring>
+	"clsProducto.h"
+	"clsArchivoProductos.h"
+	"funcionesMenus.h"
+	"funcionesProducto.h"
+	"cargarCadena.h"
+
+1763083688 c:\users\julii\desktop\pdf progra\gestionbit 4.1\funcionesmenus.h
+
+1763230846 source:c:\users\julii\desktop\pdf progra\gestionbit 4.1\funcionesventa.cpp
+	<iostream>
+	<cstring>
+	"clsVentas.h"
+	"clsArchivoVentas.h"
+	"cargarCadena.h"
+
+1761173346 source:c:\users\julii\desktop\pdf progra\gestionbit 4.1\main.cpp
+	<iostream>
+	"menuPrincipal.h"
+
+1761173346 c:\users\julii\desktop\pdf progra\gestionbit 4.1\menuprincipal.h
+
+1763130140 source:c:\users\julii\desktop\pdf progra\gestionbit 4.1\menuprincipal.cpp
+	<iostream>
+	<cstring>
+	"funcionesCliente.h"
+	"funcionesDetalle.h"
+	"funcionesProducto.h"
+	"funcionesVenta.h"
+	"funcionesMenus.h"
+
+1763588584 source:c:\users\julii\desktop\pdf progra\gestionbit 4.1\menureportes.cpp
+	<iostream>
+	"funcionesMenus.h"
+	"clsClientes.h"
+	"clsDetalles.h"
+	"clsVentas.h"
+	"clsProducto.h"
+	"clsFecha.h"
+	"clsFuncionesReporte.h"
+
+1763559852 c:\users\julii\desktop\pdf progra\gestionbit 4.1\clsfuncionesreporte.h
+
+1761173346 source:c:\users\matias\desktop\gestionbit\gestionbit\cargarcadena.cpp
+	<iostream>
+	<cstring>
+
+1763231580 source:c:\users\matias\desktop\gestionbit\gestionbit\clsarchivoclientes.cpp
+	<iostream>
+	<cstring>
+	"clsArchivoClientes.h"
+
+1763228100 c:\users\matias\desktop\gestionbit\gestionbit\clsarchivoclientes.h
+	"clsClientes.h"
+
+1761180566 c:\users\matias\desktop\gestionbit\gestionbit\clsclientes.h
+	"clsfecha.h"
+
+1761173346 c:\users\matias\desktop\gestionbit\gestionbit\clsfecha.h
+
+1763231580 source:c:\users\matias\desktop\gestionbit\gestionbit\clsarchivodetalles.cpp
+	<iostream>
+	<cstring>
+	"clsArchivoDetalles.h"
+	"clsDetalles.h"
+
+1761173346 c:\users\matias\desktop\gestionbit\gestionbit\clsarchivodetalles.h
+	"clsDetalles.h"
+
+1763477430 c:\users\matias\desktop\gestionbit\gestionbit\clsdetalles.h
+
+1763231046 source:c:\users\matias\desktop\gestionbit\gestionbit\clsarchivoproductos.cpp
+	<iostream>
+	<cstring>
+	"clsArchivoProductos.h"
+	"clsProducto.h"
+
+1763229848 c:\users\matias\desktop\gestionbit\gestionbit\clsarchivoproductos.h
+	"clsProducto.h"
+
+1761173346 c:\users\matias\desktop\gestionbit\gestionbit\clsproducto.h
+
+1763230846 source:c:\users\matias\desktop\gestionbit\gestionbit\clsarchivoventas.cpp
+	<iostream>
+	<cstring>
+	"clsArchivoVentas.h"
+	"clsVentas.h"
+
+1763230610 c:\users\matias\desktop\gestionbit\gestionbit\clsarchivoventas.h
+	"clsVentas.h"
+
+1761739074 c:\users\matias\desktop\gestionbit\gestionbit\clsventas.h
+	"clsFecha.h"
+
+1763395494 source:c:\users\matias\desktop\gestionbit\gestionbit\clsclientes.cpp
+	<iostream>
+	<cstring>
+	"clsClientes.h"
+	"clsFecha.h"
+	"cargarCadena.h"
+
+1761173346 c:\users\matias\desktop\gestionbit\gestionbit\cargarcadena.h
+
+1763559860 source:c:\users\matias\desktop\gestionbit\gestionbit\clsdetalles.cpp
+	<iostream>
+	<cstring>
+	"clsDetalles.h"
+
+1763395474 source:c:\users\matias\desktop\gestionbit\gestionbit\clsfecha.cpp
+	<iostream>
+	"clsFecha.h"
+
+1763229848 source:c:\users\matias\desktop\gestionbit\gestionbit\clsmenuclientes.cpp
+	<iostream>
+	"funcionesCliente.h"
+
+1763228048 c:\users\matias\desktop\gestionbit\gestionbit\funcionescliente.h
+
+1763229848 source:c:\users\matias\desktop\gestionbit\gestionbit\clsmenudetalle.cpp
+	<iostream>
+	"funcionesDetalle.h"
+
+1763237040 c:\users\matias\desktop\gestionbit\gestionbit\funcionesdetalle.h
+
+1763229894 source:c:\users\matias\desktop\gestionbit\gestionbit\clsmenuproductos.cpp
+	<iostream>
+	"funcionesProducto.h"
+
+1763229848 c:\users\matias\desktop\gestionbit\gestionbit\funcionesproducto.h
+
+1763230846 source:c:\users\matias\desktop\gestionbit\gestionbit\clsmenuventas.cpp
+	<iostream>
+	"funcionesVenta.h"
+
+1763230846 c:\users\matias\desktop\gestionbit\gestionbit\funcionesventa.h
+
+1763478566 source:c:\users\matias\desktop\gestionbit\gestionbit\clsproducto.cpp
+	<iostream>
+	<cstring>
+	"clsProducto.h"
+	"clsFecha.h"
+	"cargarCadena.h"
+
+1763395516 source:c:\users\matias\desktop\gestionbit\gestionbit\clsventas.cpp
+	<iostream>
+	<cstring>
+	"clsFecha.h"
+	"clsVentas.h"
+	"cargarCadena.h"
+
+1763229174 source:c:\users\matias\desktop\gestionbit\gestionbit\funcionescliente.cpp
+	<iostream>
+	<cstring>
+	"clsClientes.h"
+	"clsArchivoClientes.h"
+	"funcionesCliente.h"
+	"clsFecha.h"
+	"cargarCadena.h"
+
+1763237040 source:c:\users\matias\desktop\gestionbit\gestionbit\funcionesdetalle.cpp
+	<iostream>
+	<cstring>
+	"funcionesDetalle.h"
+	"clsDetalles.h"
+	"clsArchivoDetalles.h"
+
+1763230322 source:c:\users\matias\desktop\gestionbit\gestionbit\funcionesproducto.cpp
+	<iostream>
+	<cstring>
+	"clsProducto.h"
+	"clsArchivoProductos.h"
+	"funcionesMenus.h"
+	"funcionesProducto.h"
+	"cargarCadena.h"
+
+1763083688 c:\users\matias\desktop\gestionbit\gestionbit\funcionesmenus.h
+
+1763230846 source:c:\users\matias\desktop\gestionbit\gestionbit\funcionesventa.cpp
+	<iostream>
+	<cstring>
+	"clsVentas.h"
+	"clsArchivoVentas.h"
+	"cargarCadena.h"
+
+1761173346 source:c:\users\matias\desktop\gestionbit\gestionbit\main.cpp
+	<iostream>
+	"menuPrincipal.h"
+
+1761173346 c:\users\matias\desktop\gestionbit\gestionbit\menuprincipal.h
+
+1763130140 source:c:\users\matias\desktop\gestionbit\gestionbit\menuprincipal.cpp
+	<iostream>
+	<cstring>
+	"funcionesCliente.h"
+	"funcionesDetalle.h"
+	"funcionesProducto.h"
+	"funcionesVenta.h"
+	"funcionesMenus.h"
+
+1763588584 source:c:\users\matias\desktop\gestionbit\gestionbit\menureportes.cpp
+	<iostream>
+	"funcionesMenus.h"
+	"clsClientes.h"
+	"clsDetalles.h"
+	"clsVentas.h"
+	"clsProducto.h"
+	"clsFecha.h"
+	"clsFuncionesReporte.h"
+
+1763559852 c:\users\matias\desktop\gestionbit\gestionbit\clsfuncionesreporte.h
+
+1761173346 source:d:\programacion\code-blocks\gestionbit\gestionbit\cargarcadena.cpp
+	<iostream>
+	<cstring>
+
+1765633305 source:d:\programacion\code-blocks\gestionbit\gestionbit\clsarchivoclientes.cpp
+	<iostream>
+	<cstring>
+	"clsArchivoClientes.h"
+
+1763228100 d:\programacion\code-blocks\gestionbit\gestionbit\clsarchivoclientes.h
+	"clsClientes.h"
+
+1761180566 d:\programacion\code-blocks\gestionbit\gestionbit\clsclientes.h
+	"clsfecha.h"
+
+1764642418 d:\programacion\code-blocks\gestionbit\gestionbit\clsfecha.h
+
+1765633305 source:d:\programacion\code-blocks\gestionbit\gestionbit\clsarchivodetalles.cpp
+	<iostream>
+	<cstring>
+	"clsArchivoDetalles.h"
+	"clsDetalles.h"
+
+1764080908 d:\programacion\code-blocks\gestionbit\gestionbit\clsarchivodetalles.h
+	"clsDetalles.h"
+
+1764938696 d:\programacion\code-blocks\gestionbit\gestionbit\clsdetalles.h
+
+1765633305 source:d:\programacion\code-blocks\gestionbit\gestionbit\clsarchivoproductos.cpp
+	<iostream>
+	<cstring>
+	"clsArchivoProductos.h"
+	"clsProducto.h"
+
+1764075608 d:\programacion\code-blocks\gestionbit\gestionbit\clsarchivoproductos.h
+	"clsProducto.h"
+
+1764938584 d:\programacion\code-blocks\gestionbit\gestionbit\clsproducto.h
+
+1764939834 source:d:\programacion\code-blocks\gestionbit\gestionbit\clsarchivoventas.cpp
+	<iostream>
+	<cstring>
+	"clsArchivoVentas.h"
+	"clsVentas.h"
+
+1764013820 d:\programacion\code-blocks\gestionbit\gestionbit\clsarchivoventas.h
+	"clsVentas.h"
+
+1761739074 d:\programacion\code-blocks\gestionbit\gestionbit\clsventas.h
+	"clsFecha.h"
+
+1763934354 source:d:\programacion\code-blocks\gestionbit\gestionbit\clsclientes.cpp
+	<iostream>
+	<cstring>
+	"clsClientes.h"
+	"clsFecha.h"
+	"cargarCadena.h"
+
+1761173346 d:\programacion\code-blocks\gestionbit\gestionbit\cargarcadena.h
+
+1765635168 source:d:\programacion\code-blocks\gestionbit\gestionbit\clsdetalles.cpp
+	<iostream>
+	<cstring>
+	"clsDetalles.h"
+	"clsProducto.h"
+	"clsArchivoDetalles.h"
+	"clsArchivoProductos.h"
+
+1765633437 source:d:\programacion\code-blocks\gestionbit\gestionbit\clsfecha.cpp
+	<iostream>
+	"clsFecha.h"
+
+1765634681 source:d:\programacion\code-blocks\gestionbit\gestionbit\clsfuncionesreporte.cpp
+	<iostream>
+	"clsArchivoClientes.h"
+	"clsArchivoDetalles.h"
+	"clsArchivoVentas.h"
+	"clsArchivoProductos.h"
+	"clsClientes.h"
+	"clsDetalles.h"
+	"clsVentas.h"
+	<cstring>
+
+1763735630 source:d:\programacion\code-blocks\gestionbit\gestionbit\clsmenuclientes.cpp
+	<iostream>
+	"funcionesCliente.h"
+
+1763228048 d:\programacion\code-blocks\gestionbit\gestionbit\funcionescliente.h
+
+1763229848 source:d:\programacion\code-blocks\gestionbit\gestionbit\clsmenudetalle.cpp
+	<iostream>
+	"funcionesDetalle.h"
+
+1763237040 d:\programacion\code-blocks\gestionbit\gestionbit\funcionesdetalle.h
+
+1764076778 source:d:\programacion\code-blocks\gestionbit\gestionbit\clsmenuproductos.cpp
+	<iostream>
+	"funcionesProducto.h"
+
+1763229848 d:\programacion\code-blocks\gestionbit\gestionbit\funcionesproducto.h
+
+1765631298 source:d:\programacion\code-blocks\gestionbit\gestionbit\clsmenuventas.cpp
+	<iostream>
+	"funcionesVenta.h"
+
+1765631381 d:\programacion\code-blocks\gestionbit\gestionbit\funcionesventa.h
+
+1765543761 source:d:\programacion\code-blocks\gestionbit\gestionbit\clsproducto.cpp
+	<iostream>
+	<cstring>
+	"clsProducto.h"
+	"clsFecha.h"
+	"cargarCadena.h"
+
+1765635835 source:d:\programacion\code-blocks\gestionbit\gestionbit\clsventas.cpp
+	<iostream>
+	<cstring>
+	"clsFecha.h"
+	"clsVentas.h"
+	"cargarCadena.h"
+
+1765634859 source:d:\programacion\code-blocks\gestionbit\gestionbit\funcionescliente.cpp
+	<iostream>
+	<cstring>
+	"clsClientes.h"
+	"clsArchivoClientes.h"
+	"funcionesCliente.h"
+	"clsFecha.h"
+	"cargarCadena.h"
+
+1765635048 source:d:\programacion\code-blocks\gestionbit\gestionbit\funcionesdetalle.cpp
+	<iostream>
+	<cstring>
+	"funcionesDetalle.h"
+	"clsDetalles.h"
+	"clsArchivoDetalles.h"
+
+1765635048 source:d:\programacion\code-blocks\gestionbit\gestionbit\funcionesproducto.cpp
+	<iostream>
+	<cstring>
+	"clsProducto.h"
+	"clsArchivoProductos.h"
+	"funcionesMenus.h"
+	"funcionesProducto.h"
+	"cargarCadena.h"
+
+1763083688 d:\programacion\code-blocks\gestionbit\gestionbit\funcionesmenus.h
+
+1765635394 source:d:\programacion\code-blocks\gestionbit\gestionbit\funcionesventa.cpp
+	<iostream>
+	<cstring>
+	"clsVentas.h"
+	"clsArchivoVentas.h"
+	"cargarCadena.h"
+	"clsDetalles.h"
+	"clsArchivoDetalles.h"
+	"clsArchivoProductos.h"
+	"clsProducto.h"
+
+1761173346 source:d:\programacion\code-blocks\gestionbit\gestionbit\main.cpp
+	<iostream>
+	"menuPrincipal.h"
+
+1761173346 d:\programacion\code-blocks\gestionbit\gestionbit\menuprincipal.h
+
+1765635605 source:d:\programacion\code-blocks\gestionbit\gestionbit\menuprincipal.cpp
+	<iostream>
+	<cstring>
+	"funcionesCliente.h"
+	"funcionesDetalle.h"
+	"funcionesProducto.h"
+	"funcionesVenta.h"
+	"funcionesMenus.h"
+
+1763588584 source:d:\programacion\code-blocks\gestionbit\gestionbit\menureportes.cpp
+	<iostream>
+	"funcionesMenus.h"
+	"clsClientes.h"
+	"clsDetalles.h"
+	"clsVentas.h"
+	"clsProducto.h"
+	"clsFecha.h"
+	"clsFuncionesReporte.h"
+
+1763559852 d:\programacion\code-blocks\gestionbit\gestionbit\clsfuncionesreporte.h
+
+1761173346 source:c:\users\julii\desktop\tp\gestionbit\cargarcadena.cpp
+	<iostream>
+	<cstring>
+
+1763231580 source:c:\users\julii\desktop\tp\gestionbit\clsarchivoclientes.cpp
+	<iostream>
+	<cstring>
+	"clsArchivoClientes.h"
+
+1763228100 c:\users\julii\desktop\tp\gestionbit\clsarchivoclientes.h
+	"clsClientes.h"
+
+1761180566 c:\users\julii\desktop\tp\gestionbit\clsclientes.h
+	"clsfecha.h"
+
+1764642418 c:\users\julii\desktop\tp\gestionbit\clsfecha.h
+
+1764939834 source:c:\users\julii\desktop\tp\gestionbit\clsarchivodetalles.cpp
+	<iostream>
+	<cstring>
+	"clsArchivoDetalles.h"
+	"clsDetalles.h"
+
+1764080908 c:\users\julii\desktop\tp\gestionbit\clsarchivodetalles.h
+	"clsDetalles.h"
+
+1764938696 c:\users\julii\desktop\tp\gestionbit\clsdetalles.h
+
+1764939608 source:c:\users\julii\desktop\tp\gestionbit\clsarchivoproductos.cpp
+	<iostream>
+	<cstring>
+	"clsArchivoProductos.h"
+	"clsProducto.h"
+
+1764075608 c:\users\julii\desktop\tp\gestionbit\clsarchivoproductos.h
+	"clsProducto.h"
+
+1764938584 c:\users\julii\desktop\tp\gestionbit\clsproducto.h
+
+1764939834 source:c:\users\julii\desktop\tp\gestionbit\clsarchivoventas.cpp
+	<iostream>
+	<cstring>
+	"clsArchivoVentas.h"
+	"clsVentas.h"
+
+1764013820 c:\users\julii\desktop\tp\gestionbit\clsarchivoventas.h
+	"clsVentas.h"
+
+1761739074 c:\users\julii\desktop\tp\gestionbit\clsventas.h
+	"clsFecha.h"
+
+1763934354 source:c:\users\julii\desktop\tp\gestionbit\clsclientes.cpp
+	<iostream>
+	<cstring>
+	"clsClientes.h"
+	"clsFecha.h"
+	"cargarCadena.h"
+
+1761173346 c:\users\julii\desktop\tp\gestionbit\cargarcadena.h
+
+1765324454 source:c:\users\julii\desktop\tp\gestionbit\clsdetalles.cpp
+	<iostream>
+	<cstring>
+	"clsDetalles.h"
+	"clsProducto.h"
+	"clsArchivoDetalles.h"
+	"clsArchivoProductos.h"
+
+1765244934 source:c:\users\julii\desktop\tp\gestionbit\clsfecha.cpp
+	<iostream>
+	"clsFecha.h"
+
+1765369174 source:c:\users\julii\desktop\tp\gestionbit\clsfuncionesreporte.cpp
+	<iostream>
+	"clsArchivoClientes.h"
+	"clsArchivoDetalles.h"
+	"clsArchivoVentas.h"
+	"clsArchivoProductos.h"
+	"clsClientes.h"
+	"clsDetalles.h"
+	"clsVentas.h"
+	<cstring>
+
+1763735630 source:c:\users\julii\desktop\tp\gestionbit\clsmenuclientes.cpp
+	<iostream>
+	"funcionesCliente.h"
+
+1763228048 c:\users\julii\desktop\tp\gestionbit\funcionescliente.h
+
+1763229848 source:c:\users\julii\desktop\tp\gestionbit\clsmenudetalle.cpp
+	<iostream>
+	"funcionesDetalle.h"
+
+1763237040 c:\users\julii\desktop\tp\gestionbit\funcionesdetalle.h
+
+1764076778 source:c:\users\julii\desktop\tp\gestionbit\clsmenuproductos.cpp
+	<iostream>
+	"funcionesProducto.h"
+
+1763229848 c:\users\julii\desktop\tp\gestionbit\funcionesproducto.h
+
+1764213194 source:c:\users\julii\desktop\tp\gestionbit\clsmenuventas.cpp
+	<iostream>
+	"funcionesVenta.h"
+
+1763230846 c:\users\julii\desktop\tp\gestionbit\funcionesventa.h
+
+1765370175 source:c:\users\julii\desktop\tp\gestionbit\clsproducto.cpp
+	<iostream>
+	<cstring>
+	"clsProducto.h"
+	"clsFecha.h"
+	"cargarCadena.h"
+
+1764079350 source:c:\users\julii\desktop\tp\gestionbit\clsventas.cpp
+	<iostream>
+	<cstring>
+	"clsFecha.h"
+	"clsVentas.h"
+	"cargarCadena.h"
+
+1763934800 source:c:\users\julii\desktop\tp\gestionbit\funcionescliente.cpp
+	<iostream>
+	<cstring>
+	"clsClientes.h"
+	"clsArchivoClientes.h"
+	"funcionesCliente.h"
+	"clsFecha.h"
+	"cargarCadena.h"
+
+1764939044 source:c:\users\julii\desktop\tp\gestionbit\funcionesdetalle.cpp
+	<iostream>
+	<cstring>
+	"funcionesDetalle.h"
+	"clsDetalles.h"
+	"clsArchivoDetalles.h"
+
+1764076702 source:c:\users\julii\desktop\tp\gestionbit\funcionesproducto.cpp
+	<iostream>
+	<cstring>
+	"clsProducto.h"
+	"clsArchivoProductos.h"
+	"funcionesMenus.h"
+	"funcionesProducto.h"
+	"cargarCadena.h"
+
+1763083688 c:\users\julii\desktop\tp\gestionbit\funcionesmenus.h
+
+1761173346 source:c:\users\julii\desktop\tp\gestionbit\main.cpp
+	<iostream>
+	"menuPrincipal.h"
+
+1761173346 c:\users\julii\desktop\tp\gestionbit\menuprincipal.h
+
+1764014712 source:c:\users\julii\desktop\tp\gestionbit\menuprincipal.cpp
+	<iostream>
+	<cstring>
+	"funcionesCliente.h"
+	"funcionesDetalle.h"
+	"funcionesProducto.h"
+	"funcionesVenta.h"
+	"funcionesMenus.h"
+
+1763588584 source:c:\users\julii\desktop\tp\gestionbit\menureportes.cpp
+	<iostream>
+	"funcionesMenus.h"
+	"clsClientes.h"
+	"clsDetalles.h"
+	"clsVentas.h"
+	"clsProducto.h"
+	"clsFecha.h"
+	"clsFuncionesReporte.h"
+
+1763559852 c:\users\julii\desktop\tp\gestionbit\clsfuncionesreporte.h
+
+1764854972 source:c:\users\julii\desktop\tp\gestionbit\funcionesventa.cpp
+	<iostream>
+	<cstring>
+	"clsVentas.h"
+	"clsArchivoVentas.h"
+	"cargarCadena.h"
+	"clsDetalles.h"
+	"clsArchivoDetalles.h"
+	"clsArchivoProductos.h"
+	"clsProducto.h"
+
+1761173346 source:c:\users\matias\desktop\nueva carpeta\gestionbit\cargarcadena.cpp
+	<iostream>
+	<cstring>
+
+1763231580 source:c:\users\matias\desktop\nueva carpeta\gestionbit\clsarchivoclientes.cpp
+	<iostream>
+	<cstring>
+	"clsArchivoClientes.h"
+
+1763228100 c:\users\matias\desktop\nueva carpeta\gestionbit\clsarchivoclientes.h
+	"clsClientes.h"
+
+1761180566 c:\users\matias\desktop\nueva carpeta\gestionbit\clsclientes.h
+	"clsfecha.h"
+
+1764642418 c:\users\matias\desktop\nueva carpeta\gestionbit\clsfecha.h
+
+1764939834 source:c:\users\matias\desktop\nueva carpeta\gestionbit\clsarchivodetalles.cpp
+	<iostream>
+	<cstring>
+	"clsArchivoDetalles.h"
+	"clsDetalles.h"
+
+1764080908 c:\users\matias\desktop\nueva carpeta\gestionbit\clsarchivodetalles.h
+	"clsDetalles.h"
+
+1764938696 c:\users\matias\desktop\nueva carpeta\gestionbit\clsdetalles.h
+
+1764939608 source:c:\users\matias\desktop\nueva carpeta\gestionbit\clsarchivoproductos.cpp
+	<iostream>
+	<cstring>
+	"clsArchivoProductos.h"
+	"clsProducto.h"
+
+1764075608 c:\users\matias\desktop\nueva carpeta\gestionbit\clsarchivoproductos.h
+	"clsProducto.h"
+
+1764938584 c:\users\matias\desktop\nueva carpeta\gestionbit\clsproducto.h
+
+1764939834 source:c:\users\matias\desktop\nueva carpeta\gestionbit\clsarchivoventas.cpp
+	<iostream>
+	<cstring>
+	"clsArchivoVentas.h"
+	"clsVentas.h"
+
+1764013820 c:\users\matias\desktop\nueva carpeta\gestionbit\clsarchivoventas.h
+	"clsVentas.h"
+
+1761739074 c:\users\matias\desktop\nueva carpeta\gestionbit\clsventas.h
+	"clsFecha.h"
+
+1763934354 source:c:\users\matias\desktop\nueva carpeta\gestionbit\clsclientes.cpp
+	<iostream>
+	<cstring>
+	"clsClientes.h"
+	"clsFecha.h"
+	"cargarCadena.h"
+
+1761173346 c:\users\matias\desktop\nueva carpeta\gestionbit\cargarcadena.h
+
+1765324454 source:c:\users\matias\desktop\nueva carpeta\gestionbit\clsdetalles.cpp
+	<iostream>
+	<cstring>
+	"clsDetalles.h"
+	"clsProducto.h"
+	"clsArchivoDetalles.h"
+	"clsArchivoProductos.h"
+
+1765244934 source:c:\users\matias\desktop\nueva carpeta\gestionbit\clsfecha.cpp
+	<iostream>
+	"clsFecha.h"
+
+1765546190 source:c:\users\matias\desktop\nueva carpeta\gestionbit\clsfuncionesreporte.cpp
+	<iostream>
+	"clsArchivoClientes.h"
+	"clsArchivoDetalles.h"
+	"clsArchivoVentas.h"
+	"clsArchivoProductos.h"
+	"clsClientes.h"
+	"clsDetalles.h"
+	"clsVentas.h"
+	<cstring>
+
+1763735630 source:c:\users\matias\desktop\nueva carpeta\gestionbit\clsmenuclientes.cpp
+	<iostream>
+	"funcionesCliente.h"
+
+1763228048 c:\users\matias\desktop\nueva carpeta\gestionbit\funcionescliente.h
+
+1763229848 source:c:\users\matias\desktop\nueva carpeta\gestionbit\clsmenudetalle.cpp
+	<iostream>
+	"funcionesDetalle.h"
+
+1763237040 c:\users\matias\desktop\nueva carpeta\gestionbit\funcionesdetalle.h
+
+1764076778 source:c:\users\matias\desktop\nueva carpeta\gestionbit\clsmenuproductos.cpp
+	<iostream>
+	"funcionesProducto.h"
+
+1763229848 c:\users\matias\desktop\nueva carpeta\gestionbit\funcionesproducto.h
+
+1764213194 source:c:\users\matias\desktop\nueva carpeta\gestionbit\clsmenuventas.cpp
+	<iostream>
+	"funcionesVenta.h"
+
+1763230846 c:\users\matias\desktop\nueva carpeta\gestionbit\funcionesventa.h
+
+1765543761 source:c:\users\matias\desktop\nueva carpeta\gestionbit\clsproducto.cpp
+	<iostream>
+	<cstring>
+	"clsProducto.h"
+	"clsFecha.h"
+	"cargarCadena.h"
+
+1765542949 source:c:\users\matias\desktop\nueva carpeta\gestionbit\clsventas.cpp
+	<iostream>
+	<cstring>
+	"clsFecha.h"
+	"clsVentas.h"
+	"cargarCadena.h"
+
+1765544234 source:c:\users\matias\desktop\nueva carpeta\gestionbit\funcionescliente.cpp
+	<iostream>
+	<cstring>
+	"clsClientes.h"
+	"clsArchivoClientes.h"
+	"funcionesCliente.h"
+	"clsFecha.h"
+	"cargarCadena.h"
+
+1764939044 source:c:\users\matias\desktop\nueva carpeta\gestionbit\funcionesdetalle.cpp
+	<iostream>
+	<cstring>
+	"funcionesDetalle.h"
+	"clsDetalles.h"
+	"clsArchivoDetalles.h"
+
+1765544661 source:c:\users\matias\desktop\nueva carpeta\gestionbit\funcionesproducto.cpp
+	<iostream>
+	<cstring>
+	"clsProducto.h"
+	"clsArchivoProductos.h"
+	"funcionesMenus.h"
+	"funcionesProducto.h"
+	"cargarCadena.h"
+
+1763083688 c:\users\matias\desktop\nueva carpeta\gestionbit\funcionesmenus.h
+
+1765547636 source:c:\users\matias\desktop\nueva carpeta\gestionbit\funcionesventa.cpp
+	<iostream>
+	<cstring>
+	"clsVentas.h"
+	"clsArchivoVentas.h"
+	"cargarCadena.h"
+	"clsDetalles.h"
+	"clsArchivoDetalles.h"
+	"clsArchivoProductos.h"
+	"clsProducto.h"
+
+1761173346 source:c:\users\matias\desktop\nueva carpeta\gestionbit\main.cpp
+	<iostream>
+	"menuPrincipal.h"
+
+1761173346 c:\users\matias\desktop\nueva carpeta\gestionbit\menuprincipal.h
+
+1765547127 source:c:\users\matias\desktop\nueva carpeta\gestionbit\menuprincipal.cpp
+	<iostream>
+	<cstring>
+	"funcionesCliente.h"
+	"funcionesDetalle.h"
+	"funcionesProducto.h"
+	"funcionesVenta.h"
+	"funcionesMenus.h"
+
+1763588584 source:c:\users\matias\desktop\nueva carpeta\gestionbit\menureportes.cpp
+	<iostream>
+	"funcionesMenus.h"
+	"clsClientes.h"
+	"clsDetalles.h"
+	"clsVentas.h"
+	"clsProducto.h"
+	"clsFecha.h"
+	"clsFuncionesReporte.h"
+
+1763559852 c:\users\matias\desktop\nueva carpeta\gestionbit\clsfuncionesreporte.h
+
